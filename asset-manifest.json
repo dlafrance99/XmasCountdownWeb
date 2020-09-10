@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/XmasCountdownWeb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/XmasCountdownWeb/static/js/main.76f740e5.chunk.js",
+    "main.js.map": "/XmasCountdownWeb/static/js/main.76f740e5.chunk.js.map",
+    "runtime-main.js": "/XmasCountdownWeb/static/js/runtime-main.d2bdfab1.js",
+    "runtime-main.js.map": "/XmasCountdownWeb/static/js/runtime-main.d2bdfab1.js.map",
+    "static/js/2.1b41005e.chunk.js": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js",
+    "static/js/2.1b41005e.chunk.js.map": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js.map",
+    "index.html": "/XmasCountdownWeb/index.html",
+    "precache-manifest.75e7c845b7a2434caa6f90e1f28330ab.js": "/XmasCountdownWeb/precache-manifest.75e7c845b7a2434caa6f90e1f28330ab.js",
+    "service-worker.js": "/XmasCountdownWeb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/XmasCountdownWeb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b41005e.chunk.js.LICENSE.txt": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js.LICENSE.txt",
+    "static/media/1_XmasWebHome.png": "/XmasCountdownWeb/static/media/1_XmasWebHome.f5f19993.png",
+    "static/media/2_XmasWebWeeks.png": "/XmasCountdownWeb/static/media/2_XmasWebWeeks.133b6e45.png",
+    "static/media/3_XmasWebDays.png": "/XmasCountdownWeb/static/media/3_XmasWebDays.24ce9744.png",
+    "static/media/4_XmasWebHours.png": "/XmasCountdownWeb/static/media/4_XmasWebHours.381a55fd.png",
+    "static/media/5_XmasWebMinutes.png": "/XmasCountdownWeb/static/media/5_XmasWebMinutes.13ea8baf.png",
+    "static/media/6_XmasWebSeconds.png": "/XmasCountdownWeb/static/media/6_XmasWebSeconds.048ba197.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2bdfab1.js",
+    "static/js/2.1b41005e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.76f740e5.chunk.js"
+  ]
+}
