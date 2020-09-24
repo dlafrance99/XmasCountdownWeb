@@ -81,7 +81,7 @@ function App() {
           </h1>
 
           <div>
-            <a href='' target='_blank' rel="noopener noreferrer">
+            <a href='https://apps.apple.com/us/app/xmas-countdown/id1531199155' target='_blank' rel="noopener noreferrer">
               DOWNLOAD ON THE APP STORE!
             </a>
           </div>
@@ -175,7 +175,7 @@ function App() {
             </h1>
 
             <div>
-              <a href='' target='_blank' rel="noopener noreferrer">
+              <a href='https://apps.apple.com/us/app/xmas-countdown/id1531199155' target='_blank' rel="noopener noreferrer">
                 DOWNLOAD ON THE APP STORE!
               </a>
             </div>
