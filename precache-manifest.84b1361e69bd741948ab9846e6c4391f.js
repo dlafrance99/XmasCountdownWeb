@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eb5b80243bc3fb61e920fb26ea76d5b",
+    "revision": "6afad19998abbf5b4bfc446a4fa6e88d",
     "url": "/XmasCountdownWeb/index.html"
   },
   {
-    "revision": "b10d2f019ac030746488",
+    "revision": "d2d341d217aa5693dd1a",
     "url": "/XmasCountdownWeb/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b10d2f019ac030746488",
-    "url": "/XmasCountdownWeb/static/js/main.76f740e5.chunk.js"
+    "revision": "d2d341d217aa5693dd1a",
+    "url": "/XmasCountdownWeb/static/js/main.855f904c.chunk.js"
   },
   {
     "revision": "59246d4fd5c50fe40bc5",

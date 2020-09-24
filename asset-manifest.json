@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/XmasCountdownWeb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/XmasCountdownWeb/static/js/main.76f740e5.chunk.js",
-    "main.js.map": "/XmasCountdownWeb/static/js/main.76f740e5.chunk.js.map",
+    "main.js": "/XmasCountdownWeb/static/js/main.855f904c.chunk.js",
+    "main.js.map": "/XmasCountdownWeb/static/js/main.855f904c.chunk.js.map",
     "runtime-main.js": "/XmasCountdownWeb/static/js/runtime-main.d2bdfab1.js",
     "runtime-main.js.map": "/XmasCountdownWeb/static/js/runtime-main.d2bdfab1.js.map",
     "static/js/2.1b41005e.chunk.js": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js",
     "static/js/2.1b41005e.chunk.js.map": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js.map",
     "index.html": "/XmasCountdownWeb/index.html",
-    "precache-manifest.75e7c845b7a2434caa6f90e1f28330ab.js": "/XmasCountdownWeb/precache-manifest.75e7c845b7a2434caa6f90e1f28330ab.js",
+    "precache-manifest.84b1361e69bd741948ab9846e6c4391f.js": "/XmasCountdownWeb/precache-manifest.84b1361e69bd741948ab9846e6c4391f.js",
     "service-worker.js": "/XmasCountdownWeb/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/XmasCountdownWeb/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.1b41005e.chunk.js.LICENSE.txt": "/XmasCountdownWeb/static/js/2.1b41005e.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d2bdfab1.js",
     "static/js/2.1b41005e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.76f740e5.chunk.js"
+    "static/js/main.855f904c.chunk.js"
   ]
 }
